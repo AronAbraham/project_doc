@@ -1,4 +1,4 @@
-import numpy as np
+ import numpy as np
 from flask import Flask, request, render_template
 import pickle
 from PIL import Image
